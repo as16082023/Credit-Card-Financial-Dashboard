@@ -16,6 +16,11 @@ The project contains two PowerBI dashboards-
 from Week 1 (1st Jan 2023) to Week 52 (24 Dec 2023) 
 
 - Overall Revenue is 55M
-- Total Interest is
-- Total Tranasction Amount and count is
-- 
+- Total Interest is 7.84M
+- Total Tranasction Amount is 45M
+- Male customers are contributing more in revenue 30M, female 25M
+- Blue & Silver credit card are contributing to 93% of overall transactions
+- TX, NY & CA is contributing to 68%
+- Overall Activation rate is 57.5%
+- Overall Delinquent rate is 6.06%
+
